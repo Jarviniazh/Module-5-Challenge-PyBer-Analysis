@@ -7,21 +7,33 @@ The purpose of this project is to analyze all the rideshare data from January to
 
 ## Results
 The rideshare data contains three types of city: Urban, Suburban and Rural. Below is the overall output of these three city types.
-![image]("https://github.com/Jarviniazh/Module-5-Challenge-PyBer-Analysis/blob/main/analysis/Summary.png")
+<p align="center">
+ <img src="https://github.com/Jarviniazh/Module-5-Challenge-PyBer-Analysis/blob/main/analysis/Summary.png?raw=true" alt="Summary"/>
+</p>  
 
 Let’s go over each influential factor
 - Rides per city type: It is so obvious that most rides happened in urban area, reaching 68.4% of total ride demand. With the other 26.3% from suburban, this two city type almost dominate the PyBer ride-sharing market. For rural area, only about 5% contributes to the total.
-![image]("https://github.com/Jarviniazh/Module-5-Challenge-PyBer-Analysis/blob/main/analysis/%25%20of%20Total%20Rides%20by%20City%20Type.png")
+<p align="center">
+ <img src="https://github.com/Jarviniazh/Module-5-Challenge-PyBer-Analysis/blob/main/analysis/%25%20of%20Total%20Rides%20by%20City%20Type.png?raw=true" alt="%25%20of%20Total%20Rides%20by%20City%20Type"/>
+</p>  
 
 - Drivers per city type: The same percentage trend shows on drivers data. About four fifths drivers (80.9%) from urban. In contrast, the number of rural driver narrow down to only 2.6%. It seems the larger market the more drivers would like to try ride-sharing. 
-![image]("https://github.com/Jarviniazh/Module-5-Challenge-PyBer-Analysis/blob/main/analysis/%25%20of%20Total%20Drivers%20by%20City%20Type.png")
-  
+<p align="center">
+ <img src="https://github.com/Jarviniazh/Module-5-Challenge-PyBer-Analysis/blob/main/analysis/%25%20of%20Total%20Drivers%20by%20City%20Type.png?raw=true" alt="%25%20of%20Total%20Drivers%20by%20City%20Type"/>
+</p>  
+
 - Fares per city type: There is no doudt that the urban area with largest rides amount leads the highest revenue in 2019 again. However, due to the low supply of drivers, average fare prices in Rural areas are the highest of any city type, and accounts for 6.8% the total fares.    
-![image]("https://github.com/Jarviniazh/Module-5-Challenge-PyBer-Analysis/blob/main/analysis/%25%20of%20Total%20Fares%20by%20City%20Type.png")
-![image]("https://github.com/Jarviniazh/Module-5-Challenge-PyBer-Analysis/blob/main/analysis/PyBer%20Ride-Sharing%20Data.png")
+<p align="center">
+ <img src="(https://github.com/Jarviniazh/Module-5-Challenge-PyBer-Analysis/blob/main/analysis/%25%20of%20Total%20Fares%20by%20City%20Type.png?raw=true" alt="%25%20of%20Total%20Fares%20by%20City%20Type"/>
+</p>  
+<p align="center">
+ <img src="https://github.com/Jarviniazh/Module-5-Challenge-PyBer-Analysis/blob/main/analysis/PyBer%20Ride-Sharing%20Data.png?raw=true" alt="PyBer%20Ride-Sharing%20Data"/>
+</p>  
 
 - Total weekly per city type: We analyze the rideshare data from January 1, 2019 through April 29, 2019, and the first two months of 2019 display a static trend regardless the city type. Urban income in March is more fluctuant than the other two city type and turns flat again in April, whereas the fares from suburban area starts climbing up. 
-![image]("https://github.com/Jarviniazh/Module-5-Challenge-PyBer-Analysis/blob/main/analysis/PyBer_fare_summary.png")
+<p align="center">
+ <img src="https://github.com/Jarviniazh/Module-5-Challenge-PyBer-Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true" alt="PyBer_fare_summary"/>
+</p>  
 
 ## Summary
 Based on the results, we could come up with three recommendations to improve access to ride-sharing services and determine affordability for understand neighborhoods.
